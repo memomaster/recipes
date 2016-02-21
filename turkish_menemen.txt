@@ -1,0 +1,5 @@
+2 * eggs
+1 * tomato
+1 * onion
+1 * garlic
+mix them all on the fire in relative order
